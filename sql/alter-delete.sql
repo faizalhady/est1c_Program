@@ -1,0 +1,16 @@
+
+
+DELETE FROM [dbo].[Program];
+
+
+
+
+--
+ALTER TABLE ProgramDetails
+ALTER COLUMN TargetTorque DECIMAL(10, 2) NULL;
+
+ALTER TABLE ProgramDetails
+ALTER COLUMN MinAngle DECIMAL(10, 2) NULL;
+
+ALTER TABLE ProgramDetails
+ALTER COLUMN MaxAngle DECIMAL(10, 2) NULL;
