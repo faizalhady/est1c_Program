@@ -1,0 +1,3 @@
+❌ Failed to read details in: \\mypenm0opsapp01\SmartTorque$\Program Directory\LAM RESEARCH HLA_ME\Sehan\Bay 13 Program Smart Torque\853-B38669-101 HLA MA2.xlsx
+   Reason: Cells can hold a maximum of 32,767 characters. (Parameter 'text')
+❌ No details found in file: \\mypenm0opsapp01\SmartTorque$\Program Directory\LAM RESEARCH HLA_ME\Sehan\Bay 13 Program Smart Torque\853-B38669-101 HLA MA2.xlsx

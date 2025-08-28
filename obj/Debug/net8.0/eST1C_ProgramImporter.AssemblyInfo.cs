@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eST1C_ProgramImporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0775006fac97d8f3ee6dc7040b051eda4909d423")]
 [assembly: System.Reflection.AssemblyProductAttribute("eST1C_ProgramImporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eST1C_ProgramImporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
